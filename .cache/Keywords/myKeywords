@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "D371E783720783244467FB28B932D160",
+  "keywordClasses": [
+    {
+      "name": "myKeywords",
+      "keywordMethods": [
+        {
+          "name": "welcome",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "wlcmuser",
+          "parameters": [
+            {
+              "name": "user",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
